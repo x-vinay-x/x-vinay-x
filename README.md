@@ -1,5 +1,6 @@
 # 💫 About Me:
 ### 💡 About Me<br>- 🎓 I’m currently pursuing **Electronics and Communication Engineering**<br>- 💻 I’m passionate about **Software Development** and exploring the world of **Web & AI**<br>- 🔭 I recently built a Driver Drowsiness detection system of both software and hardware<br>- 🌱 Currently learning: `Machine Learning`, `Generative AI`, `Full-Stack Web Dev`<br>- ⚡ Fun fact: I love gaming (Valorant 🎮) and building model kits 🚀
+# Portfolio Demo - https://portfolio-vinayn.netlify.app/
 
 
 # 💻 Tech Stack:
